@@ -1,4 +1,4 @@
-# Dentli Main Service
+# WMS Main Service
 
 ## Dependencies
 
